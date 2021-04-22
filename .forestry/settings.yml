@@ -13,9 +13,9 @@ sections:
   match: "*"
 - type: directory
   path: data
-  label: data/
+  label: data
   create: all
-  match: "**/*"
+  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
