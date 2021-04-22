@@ -3,7 +3,7 @@ baseURL = "https://biwashi.github.io/ynusb_site/"
 title = "横浜国立大学吹奏楽団"
 theme = "omega-hugo"
 publishDir = "docs"
-canonifyurls = true
+# canonifyurls = true
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 [markup.goldmark.renderer]
