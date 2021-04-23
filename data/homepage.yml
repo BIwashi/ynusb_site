@@ -40,6 +40,7 @@ vision:
 
 #################### product ####################
 product:
+  section_img: "images/bg/bg_2.jpg"
   enable : true
   section : "Executive"
   title : "幹部"
