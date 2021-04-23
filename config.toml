@@ -54,6 +54,10 @@ contact_info = "〒240-8501<br>神奈川県横浜市保土ケ谷区常盤台７�
 # Preloader
 preloader = true
 # google map
+
+images = ["https://biwashi.github.io/ynusb_site/images/hero-image/ynusb_main.jpg"]
+title = "YNUSB | Official Site"
+
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"
