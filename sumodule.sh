@@ -4,4 +4,4 @@ git commit -m "update thema"
 git push
 cd ..
 cd ..
-git sumodule update
+git submodule update --remote themes/omega-hugo
