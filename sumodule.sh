@@ -1,7 +1,7 @@
-cd themes/omega-hugo
+cd themes/omega-hugo/
 pwd
 git add -A
 git commit -m "update thema"
 git push
 cd ../..
-git submodule update
+git submodule update --remote themes/omega-hugo
