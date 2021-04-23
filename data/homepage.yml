@@ -43,7 +43,7 @@ product:
   enable : true
   section : "Executive"
   title : "幹部"
-  content : "Very Very Very Very Very Very Very Very Very Very Happy People <br> hoge ヤッホーーーーーーーーーーーーーーーーーーーーーーーーーーーー"
+  content : "Very Very Very Very Very Very Very Very Very Very Happy People <br> hoge ヤッホー"
   product_item:
   - title : "団長"
     image : "images/executive/cheese.jpg"
