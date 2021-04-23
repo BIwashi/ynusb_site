@@ -1,55 +1,55 @@
 ---
-title : "Career"
+title : "募集要項"
 layout: "career"
-description: "Do what you enjoy, invest for your future and reap the benefits of working with the worlds first advancement company that puts people first."
+description: "団の募集状況とかを書くのかな"
 
 
 ######### about ###############
 about:
   enable : true
-  title : "Who we're looking for"
-  content : "Bright, educated and hard working individuals who put professionalism first."
-  video_thumb : "images/promo-video-thumbnail.jpg"
-  video_id : "g3-VxLQO7do"
+  title : "求む！理想の団員！"
+  content : "君が欲しいのだ。"
+  video_thumb : "images/b3.png"
+  video_id : "avQ-lCvgI2s"
 
 
 ########### Gallery ##########
 gallery:
   enable : true
   images:
-  - "images/gallery/gallery-01.png"
-  - "images/gallery/gallery-02.png"
-  - "images/gallery/gallery-03.png"
+  - "images/gallery/g_1.jpg"
+  - "images/gallery/g_1.jpg"
+  - "images/gallery/g_1.jpg"
 
 
 ########### funfacts ##########
 funfacts:
   enable : true
-  title : "amenities for you to enjoy"
+  title : "あなたが得られるもの"
   funfacts_item:
-  - name : "Flexible hours"
+  - name : "チャリンコ"
     icon : "fa-bicycle"
-    content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
+    content : "あああああああああああああああああああああああああああああああああああああああああああああ"
     
-  - name : "Free Snacks"
+  - name : "ベル"
     icon : "fa-bell-o"
-    content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
+    content : "あああああああああああああああああああああああああああああああああああああああああああああ"
     
-  - name : "Recreation"
+  - name : "マイコン"
     icon : "fa-microchip"
-    content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
+    content : "あああああああああああああああああああああああああああああああああああああああああああああ"
     
-  - name : "5 Working Days"
+  - name : "電気"
     icon : "fa-plug"
-    content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
+    content : "あああああああああああああああああああああああああああああああああああああああああああああ"
     
 ########### Career ############
 career:
   enable : true
-  title : "Job Opening"
+  title : "募集してる楽器"
   job_item:
-  - name : "Android Developer"
-    location : "Hamburg, Germany"
+  - name : "サックス"
+    location : "飲めればおっけい"
     form_action : "#"
     about : "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
     experiences:
@@ -58,8 +58,8 @@ career:
     - "Dynamic presentation and communication skills"
     - "Self-motivation: You manage your own milestones, deadlines, and priorities"
     
-  - name : "DevOps Engineer"
-    location : "Hamburg, Germany"
+  - name : "サックス"
+    location : "飲めればおっけい"
     form_action : "#"
     about : "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
     experiences:
@@ -69,8 +69,8 @@ career:
     - "Self-motivation: You manage your own milestones, deadlines, and priorities"
 
 
-  - name : "Operations Manager"
-    location : "Hamburg, Germany"
+  - name : "サックス"
+    location : "飲めればおっけい"
     form_action : "#"
     about : "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
     experiences:
@@ -80,8 +80,8 @@ career:
     - "Self-motivation: You manage your own milestones, deadlines, and priorities"
 
 
-  - name : "International Compliance Officer"
-    location : "Hamburg, Germany"
+  - name : "サックス"
+    location : "飲めればおっけい"
     form_action : "#"
     about : "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
     experiences:

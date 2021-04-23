@@ -1,9 +1,9 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Advancement is Omega"
-  content : "Solving the problems of today to see a tomorrow worth living and a past worth remembering."
-  image : "images/hero-image/hero-slider-01.jpg"
+  title : "横浜国立大学吹奏楽団"
+  content : "Yokohama National University Symphonic Band"
+  image : "images/hero-image/ynusb_main.jpg"
   button:
     enable : true
     label : "WHAT WE DO"
@@ -12,51 +12,52 @@ banner:
 #################### Mission #####################
 mission:
   enable : true
-  title : "Propel Advancement"
-  section : "MISSION"
-  content : "Introducing the world’s first Advancement Company. As we enter the dawn of the digital age a significant leap must be made to propel the world into the age of advancement."
-  video_thumb: "images/video-thumb.jpg"
-  video_id: "ResipmZmpDU"
+  title : "Let's Party!"
+  section : "団方針"
+  content : "ぶち上げてぶち上げるには、ぶち上げるしかないと思います。だからこそ、ぶち上げるしかないと思います。<br> hoge foo bar <br> ここ日本語フォント変えねば"
+  video_thumb: "images/b3.png"
+  video_id: "avQ-lCvgI2s"
+  section_img: "images/bg/bg_1.jpg"
 
 
 #################### Vission #####################
 vision:
   enable : true
-  section : "VISION"
+  section : "EVENT"
   vision_item:
-  - title : "People First"
-    image : "images/vision/vision-01.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+  - title : "夏合宿"
+    image : "images/vision/sumer_1.jpg"
+    content : "定期演奏会に向けた練習を集中的に行う4泊5日の合宿です。練習だけでなく、レクリエーションなども行うので毎年楽しい合宿になります。"
     
-  - title : "Employee Culture"
-    image : "images/vision/vision-02.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+  - title : "常盤祭"
+    image : "images/vision/tokiwa_1.jpg"
+    content : "大学祭の1つ、「常盤祭」です。この時にも出店したり、団員全員でのコンサートを行っています。毎年沢山の方が聴きに来てくれています。"
     
-  - title : "The Omega Way"
-    image : "images/vision/vision-03.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+  - title : "アンサンブルコンテスト"
+    image : "images/vision/ensemble_1.jpg"
+    content : "参加者を割り振ってアンサンブルを組み、順位を競うコンテスト、学年合奏など有志を募り、自由な構成で多彩な音楽を楽しむコンサートの二つを一日かけて行います。アンサンブルを通じて多くのことを学べたり、他パート、他学年との交流を深められると好評のイベントです。"
 
 
 #################### product ####################
 product:
   enable : true
-  section : "Products"
-  title : "Some Of Our Best Products"
-  content : "See the innovation that has come through the Rio way. As an advancement company, the goal is to continuously find areas to help business push forward. Below you can find the first product available to help you do so."
+  section : "Executive"
+  title : "幹部"
+  content : "Very Very Very Very Very Very Very Very Very Very Happy People <br> hoge ヤッホーーーーーーーーーーーーーーーーーーーーーーーーーーーー"
   product_item:
-  - title : "Ecosystem"
-    image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+  - title : "団長"
+    image : "images/executive/cheese.jpg"
+    content : "酒しか勝たん。酒しか勝たん。酒しか勝たん。酒しか勝たん。酒しか勝たん。酒しか勝たん。"
     project_url : "#"
     
-  - title : "Objects"
-    image : "images/product/product-02.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+  - title : "正指揮者"
+    image : "images/executive/cheese.jpg"
+    content : "酒しか勝たん。酒しか勝たん。酒しか勝たん。酒しか勝たん。酒しか勝たん。酒しか勝たん。"
     project_url : "#"
     
-  - title : "Publisher"
-    image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+  - title : "すごい人"
+    image : "images/executive/cheese.jpg"
+    content : "酒しか勝たん。酒しか勝たん。酒しか勝たん。酒しか勝たん。酒しか勝たん。酒しか勝たん。"
     project_url : "#"
 
 
@@ -64,14 +65,14 @@ product:
 contact:
   enable : true
   section : "CONTACT US"
-  title : "reach us"
-  image : "images/map-bg.jpg"
-  content : "The dawn of the digital age and the need for a significant leap forward is here. We believe that every business has the opportunity to move into this new age with the right mindset. Contact us today to begin understanding how Omega can propel your business."
+  title : "どこに行けばいいの？"
+  image : "images/map.jpg"
+  content : "このいかにも廃墟なサークル棟だぜ！"
 
   
 ################### call to action #################
 call_to_action:
   enable : true
-  title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
-  button_label : "Apply Now"
+  title : "団員募集中！<br>気軽に連絡してください！"
+  button_label : "Contact Now"
   button_link : "career"

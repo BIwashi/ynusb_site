@@ -18,13 +18,13 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
+name = "About us"
 pre = "#"
 url = "mission"
 weight = 2
 
 [[menu.main]]
-name = "Products"
+name = "Event"
 pre = "#"
 url = "products"
 weight = 3
@@ -44,24 +44,26 @@ weight = 5
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/teio.png"
 logo_width = "120px"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
+contact_info = "〒240-8501<br>神奈川県横浜市保土ケ谷区常盤台７９−１"
 # Preloader
 preloader = true
 # google map
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"
-map_center_lat = "25.773606"
-map_center_lng = "-80.732655"
-map_position_lat = "25.7635916"
-map_position_lng = "-80.1937595"
+map_center_lat = "35.41226757579662"
+map_center_lng = "138.89351990093084"
+map_position_lat = "35.47204382376783"
+map_position_lng = "139.5942513178635"
 map_marker = "images/map-marker.png"
+
+
 
 # cookies
 [params.cookies]
