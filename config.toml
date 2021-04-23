@@ -55,7 +55,7 @@ contact_info = "〒240-8501<br>神奈川県横浜市保土ケ谷区常盤台７�
 preloader = true
 # google map
 
-images = ["https://biwashi.github.io/ynusb_site/images/hero-image/ynusb_main.jpg"]
+images = ["images/hero-image/ynusb_main.jpg"]
 title = "YNUSB | Official Site"
 
 [params.map]
