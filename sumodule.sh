@@ -1,4 +1,4 @@
-cd thema/omega-hugo
+cd themas/omega-hugo
 pwd
 git add -A
 git commit -m "update thema"
