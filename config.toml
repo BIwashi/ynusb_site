@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://biwashi.github.io/ynusb_site/"
-title = "横浜国立大学吹奏楽団"
+title = "YNUSB | Official Site"
 theme = "omega-hugo"
 publishDir = "docs"
 # canonifyurls = true
@@ -47,8 +47,8 @@ weight = 5
 logo = "images/teio.png"
 logo_width = "120px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "サイトだよ"
+author = "BIwashi"
 # contact info
 contact_info = "〒240-8501<br>神奈川県横浜市保土ケ谷区常盤台７９−１"
 # Preloader
